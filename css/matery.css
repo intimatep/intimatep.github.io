@@ -239,7 +239,7 @@ mark {
 .container .row {
     margin-bottom: 0;
 }
-
+/*
 .bg-color {
     background-image: linear-gradient(to right, #CC99FF 0%, #CCCCFF 100%);
 }
@@ -251,7 +251,7 @@ mark {
 .white-color {
     color: #fff;
 }
-
+*/
 .progress-bar {
     height: 4px;
     position: fixed;
